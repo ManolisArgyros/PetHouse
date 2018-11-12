@@ -7,6 +7,9 @@
 1 Arduino Uno Rev3 
 1 Arduino Nano
 2 Breadboards
+1 RF πομπό 
+1 Rf δέκτη
+2 μπαταρίες 9volt
 
 Αισθητήρες :
 
