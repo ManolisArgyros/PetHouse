@@ -4,9 +4,9 @@
 Εξοπλισμός: 
 
 1 μπαλόνι διαμέτρου 200 εκατοστών με ήλιο
-2 Arduino Uno Rev3 
+1 Arduino Uno Rev3 
+1 Arduino Nano
 2 Breadboards
-1 
 
 Αισθητήρες :
 
